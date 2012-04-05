@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# see inversion.cpp for problem description
+# Author: Pan Gu
 def count(l):
     n = len(l);
     if n < 2: return 0, l;

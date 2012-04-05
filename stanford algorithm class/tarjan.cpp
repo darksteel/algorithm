@@ -1,3 +1,6 @@
+/* see scc.cpp for problem description. This is the tarjan algorithm solution. Not required.
+ * Author: Pan Gu
+*/
 #include <cstdio>
 #include <list>
 #include <algorithm>
